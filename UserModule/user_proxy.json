@@ -1,0 +1,7 @@
+{
+    "/catapi/*":{ "target": "http://localhost:2222"},
+    "/scatapi/*":{ "target": "http://localhost:2222"},
+    "/sccatapi/*":{ "target": "http://localhost:2222"},
+    "/brandapi/*":{ "target": "http://localhost:2222"},
+    "/productapi/*":{ "target": "http://localhost:2222"}
+}
